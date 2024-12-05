@@ -1,1 +1,1 @@
-# OSS-summation
+# 20242522조정인 OSS강의 요약
